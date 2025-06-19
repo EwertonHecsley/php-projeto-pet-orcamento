@@ -1,0 +1,16 @@
+{
+    "name": "ewerton/petshop-orcamentos-hexagonal",
+    "description": "Projeto estudo Hexagonal com PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EwertonHecsley",
+            "email": "ewerton.martinscomercial@gmail.com"
+        }
+    ],
+    "require": {}
+}

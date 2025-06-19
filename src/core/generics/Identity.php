@@ -1,5 +1,7 @@
 <?php
 
+namespace App\core\generics;
+
 use Ramsey\Uuid\Uuid;
 
 class Identity

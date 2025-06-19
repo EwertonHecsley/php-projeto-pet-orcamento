@@ -1,6 +1,6 @@
 <?php
 
-namespace App\infra\repositories;
+namespace App\infra\repository;
 
 use App\core\domain\repository\OrcamentoRepositoryInterface;
 use App\core\domain\entity\Orcamento;
